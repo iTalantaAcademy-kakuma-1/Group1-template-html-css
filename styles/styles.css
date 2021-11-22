@@ -60,7 +60,7 @@
   height:5%;
 }
 .bouncy-img:hover{
-  animation: bounce 1s;
+  animation: bouncy 1s;
 }
 /* the end */
 
