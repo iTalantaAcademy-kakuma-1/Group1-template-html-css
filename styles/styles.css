@@ -55,11 +55,11 @@
     transform: translateY(-10px);
   }
 }
-.bounce-img {
+.bouncy-img {
   width:5%;
   height:5%;
 }
-.bounce-img:hover{
+.bouncy-img:hover{
   animation: bounce 1s;
 }
 /* the end */
